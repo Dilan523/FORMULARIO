@@ -23,7 +23,7 @@ body::before {
 }
 
 h1 {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bold;
     text-align: center;
     margin: 1em auto;
@@ -31,7 +31,7 @@ h1 {
     font-size: 3em;
 }
  p {
-    font-family: 'Italianno', cursive;
+    font-family: 'italianno', cursive;
     font-weight: 300;
     text-align: center;
     margin:  5px auto 50px auto;
